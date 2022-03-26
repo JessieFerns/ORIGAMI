@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: darkblue;
+}
+hr{
+    height: 10px;
+    width: 200px;
+    background-color: black; 
+}
+img{
+    height: 500px;
+    width: 500px;
+    border-style: double;
+    border-width: 10px;
+    border-color: darkviolet;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+#wikipedia{
+    background-color: darkturquoise;
+    margin: 25px;
+    padding: 25px;
+}
+.photos{
+    background-color: cadetblue;
+     margin: 25px;
+    padding: 25px;
+}
+.photo{
+    background-color: aquamarine;
+     margin: 25px;
+    padding: 25px;
+}
+#gmail{
+    color: black;
+}
+#gmail:hover{
+    background-color: crimson;
+    color: white ;
